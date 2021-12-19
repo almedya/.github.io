@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1,Астрахань-камеры 2
 https://streaming.astrakhan.ru/astrakhanrulivehd/preview.mp4
+#EXTINF:-1 ,Астрахань 1
+http://dvr.astrakhan.ru/nabp-25-hd-2/index.m3u8
+#EXTINF:-1 ,Астрахань 2
+http://dvr.astrakhan.ru/cam28hd/index.m3u8
+#EXTINF:-1 ,Астрахань 4
+http://dvr.astrakhan.ru/komm-68-hd-1/index.m3u8
+#EXTINF:-1 ,Астрахань 5
+http://dvr2.astrakhan.ru/yabl-36-hd-1/index.m3u8
+#EXTINF:-1 ,Астрахань 6
+http://dvr.astrakhan.ru/kir-19-hd-1/index.m3u8
+#EXTINF:-1 ,Астрахань 7
+http://dvr2.astrakhan.ru/akak-22-hd-2/index.m3u8
