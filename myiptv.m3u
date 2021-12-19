@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Астрахань-камеры
-https://live.astrakhan.ru/
+#EXTINF:-1,24 DOC
+http://176.51.73.170:1234/udp/233.7.70.51:5000
+#EXTINF:-1,24 Doc
+http://inetcom.tv/get_channel.php?id=284
+#EXTINF:-1,24 Техно
+http://176.51.73.170:1234/udp/233.7.70.18:5000
